@@ -118,5 +118,6 @@ Add customer segmentation clustering
 ## How to Run
 1. Clone the repository:
 ```bash
-https://github.com/jerem-a11y/customer_clv_prediction.ipynb
+https://github.com/jerem-a11y/customer-clv-prediction
+
 
